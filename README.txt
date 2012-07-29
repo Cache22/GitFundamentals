@@ -1,3 +1,4 @@
 Hello, Git
-Hello, AGain
+Hello, Again
+Updating README with new information
 
